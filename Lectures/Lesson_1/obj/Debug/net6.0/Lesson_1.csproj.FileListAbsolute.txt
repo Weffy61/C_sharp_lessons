@@ -1,0 +1,15 @@
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/bin/Debug/net6.0/Lesson_1
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/bin/Debug/net6.0/Lesson_1.deps.json
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/bin/Debug/net6.0/Lesson_1.runtimeconfig.json
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/bin/Debug/net6.0/Lesson_1.dll
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/bin/Debug/net6.0/Lesson_1.pdb
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.csproj.AssemblyReference.cache
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.AssemblyInfoInputs.cache
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.AssemblyInfo.cs
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.csproj.CoreCompileInputs.cache
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.dll
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/refint/Lesson_1.dll
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.pdb
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/Lesson_1.genruntimeconfig.cache
+/Users/vasiliysergeev/Documents/GB/C#/Lectures/Lesson_1/obj/Debug/net6.0/ref/Lesson_1.dll
