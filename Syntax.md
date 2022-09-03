@@ -68,3 +68,4 @@ void Имя_метода([Тип_данных_1, Имя_аргумента_1, ..
 *array_name.Length*	-	Вовзращает длинну массива array_name  
 *break* - аналог break в python для прерывания цикла  
 *int[] array_name = new int[n]*	-	Создание массива array_name с заданной длинной n, по дефолту заполнен нулями  
+*Convert.ToString(int_var)*	-	конвертация int в str переменной int_var  
