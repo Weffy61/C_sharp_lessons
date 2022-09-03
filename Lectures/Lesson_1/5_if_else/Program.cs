@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Введите имя пользователя :");
 string user = Console.ReadLine();
 
-if(
+if (
     user.ToLower() == "петя")
 {
     Console.WriteLine("Это же " + user + "!!!");
