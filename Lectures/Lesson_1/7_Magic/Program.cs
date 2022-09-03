@@ -19,10 +19,11 @@ Console.WriteLine("+");
 int x = xa, y = xb;
 
 int count = 0;
-
+int what = new Random().Next(0, 3);
 while(count < 1000)
+
 {
-    int what = new Random().Next(0, 3);
+    
     
     if (what == 0)
     {
@@ -31,7 +32,7 @@ while(count < 1000)
     }
 }
 
-if(what == 2)
+if(what == 1)
 {
     x = (x+xb)/ 2;
     y = (y+yb)/ 2;
