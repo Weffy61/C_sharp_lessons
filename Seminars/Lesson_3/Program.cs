@@ -68,7 +68,7 @@ void FindLen(double xa, double ya, double xb, double yb)
 {
     double cat_1 = xb - xa;
     double cat_2 = yb - ya;
-    double len = Math.Pow(cat_1 * cat_1 + cat_2 * cat_2, 0.5);
+    double len = Math.Sqrt(cat_1 * cat_1 + cat_2 * cat_2);
     Console.WriteLine("Len is " + len);
 }
 
