@@ -148,6 +148,7 @@ int[] newArray = CreateRandomArray(size, min, max);
 
 ShowArray(newArray);
 ShowChecker(newArray, num);
+
 */
 
 
